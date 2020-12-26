@@ -1,2 +1,2 @@
 # GlobalAIHubPythonHomework
-Includes daily assignments and projects given by GlobalAIHub.
+Includes daily python homeworks and projects given by Global AI Hub.
