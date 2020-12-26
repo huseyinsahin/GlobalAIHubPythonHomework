@@ -1,6 +1,6 @@
 '''
     GlobalAIHub - Homework 2
-    Hüseyin ŞAHİN
+    Huseyin SAHIN
     huseyinsahn@gmail.com
 '''
 
